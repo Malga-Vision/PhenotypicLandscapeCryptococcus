@@ -1,4 +1,5 @@
-# PhenotypicLandscapeCryptococcus
+# Official machine learning algorithms implementation for the paper: 
+# *Phenotypic landscape of a fungal meningitis pathogen reveals its unique biology*
 
 Setting up the environment:
 ```
